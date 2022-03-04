@@ -7,26 +7,22 @@ Lesson 1 :
 - Giới thiệu Flutter
 
 Lesson 2 :
-![Kiểm tra môi trường phát triển](imgs/ls1.png)
-
+![](imgs/ls1.png)
 
 Lesson 3 : completed
 
+![](imgs/ls3.png)
 Lesson 6 : completed
 
+![](imgs/ls6.png)
+Lesson 7 : completed
 
-## Input/Output
+![](imgs/ls7.png)
 
-Input : Tập train và test.
+Lesson 8 : completed
 
-Tập train : Gồm 3 trường dữ liệu :
+![](imgs/ls8.png)
 
-- qid : id của câu hỏi
-- question_text : Nội dung câu hỏi
-- target : Nhãn của câu hỏi phân loại câu hỏi bằng hai giá trị là 0, 1 với 0 là các câu hỏi "**sincere**" và 1 là các câu hỏi "**insincere**"
-- Có 1225312 nhãn 0, 80810 nhãn 1
+Lesson 10 : completed
 
-Tập test : Gồm 2 trường dữ liệu :
-
-- qid : id của câu hỏi
-- question_text : Nội dung câu hỏi
+![](imgs/ls10.png)
